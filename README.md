@@ -44,12 +44,10 @@ https://www.getpostman.com/collections/5b6c15148c82d94f0678
 - React
 
 ###  Build Backend Project
-- Go to project dir rewards
 - mvn clean install
 
 
 ###  Build Frontend and Run Project
-- Go to project dir reward-app
 - npm i
 - npm start
 
